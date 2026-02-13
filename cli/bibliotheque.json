@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id_cat": 1,
+      "nom_cat": "romantique",
+      "champ": "amoureux"
+    }
+  ],
+  "auteurs": [
+    {
+      "id_auteur": 1,
+      "nom_auteur": "jean paul",
+      "prenom_auteur": "franc"
+    }
+  ],
+  "livres": [
+    {
+      "id_livre": 1,
+      "isbn": "678383993",
+      "titre": "Amour",
+      "quantite": 8,
+      "cat_id": 1,
+      "auteur_ids": [
+        1
+      ]
+    }
+  ]
+}
